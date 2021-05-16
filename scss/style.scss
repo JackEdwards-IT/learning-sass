@@ -24,7 +24,7 @@ a {
 
 .showcase {
     @include set-background($primary-color);
-    height: 400px;
+    height: 500px;
 
     nav {
         display: flex;
